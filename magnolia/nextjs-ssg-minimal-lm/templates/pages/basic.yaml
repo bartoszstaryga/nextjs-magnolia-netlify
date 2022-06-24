@@ -1,5 +1,5 @@
 title: 'Next.js SSG: Basic'
-baseUrl: http://localhost:3000
+baseUrl: https://nextjs-magnolia-netlify-preview.netlify.app
 routeTemplate: '/api/preview?slug=/{language}{{@path}}'
 
 dialog: spa-lm:pages/basic

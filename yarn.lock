@@ -107,17 +107,17 @@
   "resolved" "http://ec2-3-66-189-158.eu-central-1.compute.amazonaws.com/@humanwhocodes%2fobject-schema/-/object-schema-1.2.0.tgz"
   "version" "1.2.0"
 
-"@magnolia/react-editor@1.2.1-beta2":
-  "integrity" "sha512-fH5TAZlJmI3BVyz2zy8MgaUoGGxDjCKz44CgUt9MhCYp7O0N9AwChEu0Gay7PiIze5WXfrAqS4hUaa9QdB4Vig=="
-  "resolved" "https://registry.npmjs.org/@magnolia/react-editor/-/react-editor-1.2.1-beta2.tgz"
-  "version" "1.2.1-beta2"
+"@magnolia/react-editor@1.2.3-beta":
+  "integrity" "sha512-HcRROUDEwrDFQtO2lrBjLq3TT1mr3eoJJBhg4D3XVAI+YjF+7KY+iv9ZkABamMwiqq3DujE4GbjL2cX0SCiOEg=="
+  "resolved" "https://registry.npmjs.org/@magnolia/react-editor/-/react-editor-1.2.3-beta.tgz"
+  "version" "1.2.3-beta"
   dependencies:
-    "@magnolia/template-annotations" "1.2.0"
+    "@magnolia/template-annotations" "1.2.1-beta"
 
-"@magnolia/template-annotations@1.2.0":
-  "integrity" "sha512-r4e++KC90jMTaltREZBwVlTWAyC7I3nTGhnnq+hXtHmDVdh9AMo2HzRKUVXxEt5Motd+dK2eA6RX6ncQp+Xevg=="
-  "resolved" "https://registry.npmjs.org/@magnolia/template-annotations/-/template-annotations-1.2.0.tgz"
-  "version" "1.2.0"
+"@magnolia/template-annotations@1.2.1-beta":
+  "integrity" "sha512-864NgZxQXSBNdCbbUyw9HI7BP5GqfSFSjB4kfXHINECOw2vpfOd27HlhZIXkaN3GvptroS67GDpPbHEUScOSEg=="
+  "resolved" "https://registry.npmjs.org/@magnolia/template-annotations/-/template-annotations-1.2.1-beta.tgz"
+  "version" "1.2.1-beta"
   optionalDependencies:
     "fsevents" "^2.3.2"
 
