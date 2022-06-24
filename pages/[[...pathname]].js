@@ -27,7 +27,7 @@ const config = {
 
 const defaultBaseUrl = process.env.NEXT_PUBLIC_MGNL_HOST;
 const pagesApi = defaultBaseUrl + '/.rest/delivery/pages/v1';
-const templateAnnotationsApi = defaultBaseUrl + '/.rest/template-annotations/v1';
+const templateAnnotationsApi = defaultBaseUrl + '/.rest/website/template-annotations/v1';
 const pagenavApi = defaultBaseUrl + '/.rest/delivery/pagenav/v1';
 
 function getStaticPath(node, paths) {
